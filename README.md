@@ -7,7 +7,7 @@
 
 En la siguiente actividad presencial utilizarás todo lo aprendido dentro de la experiencia online para construir un juego desde cero en la plataforma Scratch.
 
-Participar de esta actividad juego te entregará conocimientos prácticos en estructuras de control y algoritmos, los cuales son utilizados a diario en el desarrollo de software.
+Participar de esta actividad te entregará conocimientos prácticos en estructuras de control y algoritmos, los cuales son utilizados a diario en el desarrollo de software.
 
 Para esta actividad existen 3 posibles juegos que puedes construir, cada uno de ellos propone un reto especial y diferente, sin embargo, las dificultades de construcción son distintas para cada uno de ellos.
 
@@ -33,7 +33,7 @@ Con la sesión creada, el siguiente paso consiste en crear un proyecto con el no
 
 ### Requerimientos por juego
 
-#### Flappy
+#### Flappy Bird
 
 <img src="img/preview_flappy-bird.gif" style="width:500px">
 
@@ -75,7 +75,7 @@ Con la sesión creada, el siguiente paso consiste en crear un proyecto con el no
 - La rana al llegar al loto deberá quedar fija en la planta *(cambiar de traje)* y luego volver al inicio. 
 - El personaje principal no debe tocar el pasto, si lo toca debe volver al inicio.
 - El puntaje del juego dependerá de las veces que llegue la rana a la planta del loto, si llege a las 7 plantas, deberá mostrarse el escenario de game over.
-- Si la rana es atropellada tres ves debe aparecer el escenario de game over.
+- Si la rana es atropellada tres veces debe aparecer el escenario de game over.
  
 Al finalizar el desarrollo del videojuego, un **representante del equipo deberá presentar el videojuego en no más de 3 minutos** y explicar:
 
@@ -84,7 +84,7 @@ Al finalizar el desarrollo del videojuego, un **representante del equipo deberá
 -	¿Cuál fue la mayor dificultad al crear este juego?
 -	¿Qué mejoras o funcionalidades podrían implementar dentro del juego a futuro?
 
-**Es importante saber que la demostración del videojuego no requiere del uso de presentaciones visuales (si los equipos lo desean, lo podrán hacer)**.
+**Es importante saber que la presentación del videojuego no requiere del uso de presentaciones visuales (si los equipos lo desean, lo podrán hacer)**.
 
 Las revisiones del proyecto serán evaluadas en conjunto por los equipos de trabajo que no estén presentando, es decir, cada grupo decidirá el puntaje a través de la siguiente [rúbrica](https://goo.gl/1u9e5f).
 
