@@ -37,7 +37,7 @@ Con la sesión creada, el siguiente paso consiste en crear un proyecto con el no
 
 <img src="img/preview_flappy-bird.gif" style="width:500px">
 
-1. Agregar el escenario principal y el personaje principal.
+- Agregar el escenario principal y el personaje principal.
 - Al empezar el juego el usuario deberá sufrir el efecto de la gravedad.
 - Al presionar la tecla espacio el personaje deberá impulsarse.
 - Agregar un tubo contra el cual se pueda chocar.
@@ -47,7 +47,7 @@ Con la sesión creada, el siguiente paso consiste en crear un proyecto con el no
 
 <img src="img/preview_space_invaders.gif" style="width:500px">
 
-1. Agregar el personaje principal y el movimiento lateral.
+- Agregar el personaje principal y el movimiento lateral.
 - Agregar la opción de disparar al presionar la tecla espacio
 - Utilizar distintas instancias de la bala para que se pueda disparar más de una vez.
 - Agregar un sprite de marciano que se mueva de derecha a izquierda, anima el movimiento.
@@ -64,16 +64,18 @@ Con la sesión creada, el siguiente paso consiste en crear un proyecto con el no
 
 <img src="img/preview_frogger.gif" style="width:500px">
 
-1. Agregar el escenario principal y de game over.
+- Agregar el escenario principal y de game over.
 - Al presionar la flecha izquierda, derecha, arriba y abajo, el personaje principal deberá moverse.
 - Agregar los obstáculos del personaje principal.
 - Al empezar el juego, los obstáculos deberán moverse por la calle de izquierda a derecha y viceversa. *(dependiendo de tu elección)*
 - El personaje al tocar los obstáculos deberá perder y regresar al inicio.
 - Agregar los troncos, tortugas, planta del loto y pasto.
 - El personaje principal, al tocar los troncos y las tortugas deberá quedarse arriba de ellos hasta que el usuario decida mover la rana a la siguiente plataforma.
-- el personaje principal al llegar a la planta del loto deberá quedar el siguiente 
+- Las tortugas se deben hundir de forma aleatoria. *(Usar cambio de traje)*
+- La rana al llegar al loto deberá quedar fija en la planta *(cambiar de traje)* y luego volver al inicio. 
 - El personaje principal no debe tocar el pasto, si lo toca debe volver al inicio.
-- 
+- El puntaje del juego dependerá de las veces que llegue la rana a la planta del loto, si llege a las 7 plantas, deberá mostrarse el escenario de game over.
+- Si la rana es atropellada tres ves debe aparecer el escenario de game over.
  
 Al finalizar el desarrollo del videojuego, un **representante del equipo deberá presentar el videojuego en no más de 3 minutos** y explicar:
 
