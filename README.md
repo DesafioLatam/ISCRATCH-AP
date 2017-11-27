@@ -31,11 +31,11 @@ Terminando la descarga, el equipo deberá crear o iniciar sesión dentro de [htt
 
 Con la sesión creada, el siguiente paso consiste en crear un proyecto con el nombre del videojuego seleccionado junto con el nombre del equipo, seguido por la integración de los descargables dentro del proyecto de Scratch.
 
-###Requerimientos por juego
+### Requerimientos por juego
 
-####Flappy
+#### Flappy
 
-<img src="img/preview_flappy-bird.gif" style="max-width:70%">
+<img src="img/preview_flappy-bird.gif" style="width:500px">
 
 1. Agregar el escenario principal y el personaje principal.
 - Al empezar el juego el usuario deberá sufrir el efecto de la gravedad.
@@ -43,9 +43,9 @@ Con la sesión creada, el siguiente paso consiste en crear un proyecto con el no
 - Agregar un tubo contra el cual se pueda chocar.
 - Agregar múltiples instancias del tubo y que se generen a medida que avanzas.
 
-####Space Invaders
+#### Space Invaders
 
-<img src="img/preview_space_invaders.gif" style="max-width:70%">
+<img src="img/preview_space_invaders.gif" style="width:500px">
 
 1. Agregar el personaje principal y el movimiento lateral.
 - Agregar la opción de disparar al presionar la tecla espacio
@@ -60,9 +60,9 @@ Con la sesión creada, el siguiente paso consiste en crear un proyecto con el no
 - Los marcianos deben incrementar ligeramente la velocidad.
 - Agregar los protectores de balas anti marcianas.
 
-####Frogger
+#### Frogger
 
-<img src="img/preview_frogger.gif" style="max-width:70%">
+<img src="img/preview_frogger.gif" style="width:500px">
 
 1. Agregar el escenario principal y de game over.
 - Al presionar la flecha izquierda, derecha, arriba y abajo, el personaje principal deberá moverse.
